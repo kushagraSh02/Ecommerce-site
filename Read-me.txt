@@ -1,0 +1,4 @@
+The Front end has been developed.
+In the future, We can add a backend database where we can store the clothes details and fetch them using php or other back-end languages to provide large database
+to show to user.
+We can also, in the future, add some login/signup functionality for the customers.
